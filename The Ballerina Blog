@@ -1,12 +1,72 @@
 # morgan-jade.github.io
 <!DOCTYPE html>
-<html>
-  <body style= "background-color:pink;">
-    <title> The Ballerina Blog </title>
-    <head> 
-   <h1> Through The Looking Glass </h1> 
-<p1> I began my dance journey at six years old at Impact Dance Center. I took one class every week and prepared for my big recital at the end of the season. During the performance, most kids are known to run off the stage, start crying, or shout for their mommies in the audience, but not me. I stood on the stage with the biggest smile on my face and danced the most full out of anyone else on that stage. That's when I knew I never wanted to stop dancing.  </p1>
-<img src=
-<h2> 
+<html lang="en">
+<head>
+<title>The Ballerina Blog</title>
+</head>
+<body>
+<header>
+<h1>The Ballerina Blog</h1>
+</header>
+<main>
+<section id="about">
+<h2>About Me</h2>
+<p>A brief introduction about the girl and her journey as a dancer.</p>
+<img src="profile.jpg" alt="Profile Picture of the Ballerina">
+        </section>
+
+        <section id="blog">
+            <h2>Blog Posts</h2>
+            <article>
+                <h3>Post Title 1</h3>
+                <p>Summary of the blog post.</p>
+                <a href="post1.html">Read more</a>
+            </article>
+            <article>
+                <h3>Post Title 2</h3>
+                <p>Summary of the blog post.</p>
+                <a href="post2.html">Read more</a>
+            </article>
+            <!-- Add more posts as needed -->
+        </section>
+
+        <section id="gallery">
+            <h2>Gallery</h2>
+            <p>Photos capturing moments from her dance life.</p>
+            <div class="image-grid">
+                <img src="dance1.jpg" alt="Dancing Photo 1">
+                <img src="dance2.jpg" alt="Dancing Photo 2">
+                <img src="dance3.jpg" alt="Dancing Photo 3">
+                <!-- Add more images as needed -->
+            </div>
+        </section>
+
+        <section id="contact">
+            <h2>Contact</h2>
+            <form action="submit_form.php" method="post">
+                <label for="name">Name:</label>
+                <input type="text" id="name" name="name" required>
+                
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" required>
+                
+                <label for="message">Message:</label>
+                <textarea id="message" name="message" required></textarea>
+                
+                <button type="submit">Send Message</button>
+            </form>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 The Ballerina Blog. All rights reserved.</p>
+        <p>Follow me on social media: 
+            <a href="https://instagram.com">Instagram</a>, 
+            <a href="https://twitter.com">Twitter</a>
+        </p>
+    </footer>
+</body>
 </html>
+<p1> I began my dance journey at six years old at Impact Dance Center. I took one class every week and prepared for my big recital at the end of the season. During the performance, most kids are known to run off the stage, start crying, or shout for their mommies in the audience, but not me. I stood on the stage with the biggest smile on my face and danced the most full out of anyone else on that stage. That's when I knew I never wanted to stop dancing.  </p1>
+
       
