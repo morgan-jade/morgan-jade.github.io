@@ -11,62 +11,44 @@
 <main>
 <section id="about">
 <h2>About Me</h2>
-<p>A brief introduction about the girl and her journey as a dancer.</p>
+<p>I began my dance journey at six years old at Impact Dance Center. I took one class every week and prepared for my big recital at the end of the season. During the performance, most kids are known to run off the stage, start crying, or shout for their mommies in the audience, but not me. I stood on the stage with the biggest smile on my face and danced the most full out of anyone else on that stage. That's when I knew I never wanted to stop dancing. Today, I dance around 17 hours each week and can do almost any style of dance. I've been dancing competitevely for five years now and with a plan to continue until my senior year of high school, when I would age out of competition.</p>
 <img src="profile.jpg" alt="Profile Picture of the Ballerina">
-        </section>
-
-        <section id="blog">
-            <h2>Blog Posts</h2>
-            <article>
-                <h3>Post Title 1</h3>
-                <p>Summary of the blog post.</p>
-                <a href="post1.html">Read more</a>
-            </article>
-            <article>
-                <h3>Post Title 2</h3>
-                <p>Summary of the blog post.</p>
-                <a href="post2.html">Read more</a>
-            </article>
-            <!-- Add more posts as needed -->
-        </section>
-
-        <section id="gallery">
-            <h2>Gallery</h2>
-            <p>Photos capturing moments from her dance life.</p>
-            <div class="image-grid">
-                <img src="dance1.jpg" alt="Dancing Photo 1">
-                <img src="dance2.jpg" alt="Dancing Photo 2">
-                <img src="dance3.jpg" alt="Dancing Photo 3">
-                <!-- Add more images as needed -->
-            </div>
-        </section>
-
-        <section id="contact">
-            <h2>Contact</h2>
-            <form action="submit_form.php" method="post">
-                <label for="name">Name:</label>
-                <input type="text" id="name" name="name" required>
-                
-                <label for="email">Email:</label>
-                <input type="email" id="email" name="email" required>
-                
-                <label for="message">Message:</label>
-                <textarea id="message" name="message" required></textarea>
-                
-                <button type="submit">Send Message</button>
-            </form>
-        </section>
-    </main>
-
-    <footer>
-        <p>&copy; 2025 The Ballerina Blog. All rights reserved.</p>
-        <p>Follow me on social media: 
-            <a href="https://instagram.com">Instagram</a>, 
-            <a href="https://twitter.com">Twitter</a>
-        </p>
-    </footer>
+<section id="blog">
+<h2>Blog Posts</h2>
+<article>
+<h3> Competition Life 1</h3>
+<p>Summary of the blog post.</p>
+</article>
+<article>
+<h3> My Dance Family 2</h3>
+<p>Summary of the blog post.</p>
+</article>
+</section>
+<section id="gallery">
+<h2>Gallery</h2>
+<p>Photos capturing moments from her dance life.</p>
+<div class="image-grid">
+<img src="dance1.jpg" alt="Dancing Photo 1">
+<img src="dance2.jpg" alt="Dancing Photo 2">
+<img src="dance3.jpg" alt="Dancing Photo 3">
+</div>
+</section>
+<section id="contact">
+<h2>Contact</h2>
+<label for="name">Morgan Jade Gilbert:</label>
+<input type="text" id="name" name="name" required>
+<label for="email">Email:</label>
+<input type="email" id="email" name="email" required>
+</section>
+</main>
+<footer>
+<p>&copy; 2025 The Ballerina Blog. All rights reserved.</p>
+<p>Follow me on social media: 
+<a href="https://www.instagram.com/morgan.jad3/?igsh=NTc4MTIwNjQ2YQ%3D%3D&utm_source=qr#">Instagram</a>, 
+</p>
+</footer>
 </body>
 </html>
-<p1> I began my dance journey at six years old at Impact Dance Center. I took one class every week and prepared for my big recital at the end of the season. During the performance, most kids are known to run off the stage, start crying, or shout for their mommies in the audience, but not me. I stood on the stage with the biggest smile on my face and danced the most full out of anyone else on that stage. That's when I knew I never wanted to stop dancing.  </p1>
+
 
       
