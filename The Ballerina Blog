@@ -12,7 +12,6 @@
 <section id="about">
 <h2>About Me</h2>
 <p>I began my dance journey at six years old at Impact Dance Center. I took one class every week and prepared for my big recital at the end of the season. During the performance, most kids are known to run off the stage, start crying, or shout for their mommies in the audience, but not me. I stood on the stage with the biggest smile on my face and danced the most full out of anyone else on that stage. That's when I knew I never wanted to stop dancing. Today, I dance around 17 hours each week and can do almost any style of dance. I've been dancing competitevely for five years now and with a plan to continue until my senior year of high school, when I would age out of competition.</p>
-<img src="profile.jpg" alt="Profile Picture of the Ballerina">
 <section id="blog">
 <h2>Blog Posts</h2>
 <article>
@@ -26,17 +25,13 @@
 </section>
 <section id="gallery">
 <h2>Gallery</h2>
-<p>Photos capturing moments from her dance life.</p>
+<p>Capturing My Dance Life.</p>
 <div class="image-grid">
-<img src="dance1.jpg" alt="Dancing Photo 1">
-<img src="dance2.jpg" alt="Dancing Photo 2">
-<img src="dance3.jpg" alt="Dancing Photo 3">
-</div>
 </section>
 <section id="contact">
 <h2>Contact</h2>
-<label for="name">Morgan Jade Gilbert:</label>
-<input type="text" id="name" name="name" required>
+<label for="name">Name:</label>
+<input type="text" id="name" name="Morgan Jade Gilbert" required>
 <label for="email">Email:</label>
 <input type="email" id="email" name="email" required>
 </section>
